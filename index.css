@@ -1,0 +1,14 @@
+.user {
+  color: red;
+}
+.close {
+  font-size: 24px;
+}
+
+.yemi {
+  text-decoration: underline;
+  border: 2px solid gray;
+}
+.info {
+  display: none;
+}

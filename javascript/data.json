@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Desmon Opakan",
+    "age": 50,
+    "weight": 60,
+    "status": "online"
+  },
+  {
+    "name": "Johnson John",
+    "age": 50,
+    "weight": 70,
+    "status": "offline"
+  },
+  {
+    "name": "Segun Olayinka",
+    "age": 50,
+    "weight": 80,
+    "status": "online"
+  },
+  {
+    "name": "Peace Maker",
+    "age": 50,
+    "weight": 40,
+    "status": "online"
+  }
+]
